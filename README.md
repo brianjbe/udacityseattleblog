@@ -35,4 +35,4 @@ In order to use this data in an actual model the following steps were taking to 
 
 ## Results <a name=results></a>
 
-The results of the analysis can be found on my blog post [here](https://medium.com/@bentyesu05/how-should-you-price-your-airbnb-in-seattle-c22c08454fdd)
+The results of the analysis can be found on my blog post [here](https://medium.com/@bentyesu05/how-should-you-price-your-airbnb-in-seattle-5835190d0eb9)
